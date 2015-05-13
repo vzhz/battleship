@@ -4,7 +4,7 @@ This program is a simple one-player version of the game Battleship.
 -----------------------
 INTRODUCTION
 -----------------------
-This program is a simplified one-player version of the game Battleship.  A single ship is placed in a random location on 5*5 board and player tries to sink the ship by guessing its location.  Four turns are allowed per game.
+This program is a simplified one-player version of <a href="http://en.wikipedia.org/wiki/Battleship_%28game%29">the game Battleship</a>.  A single ship is placed in a random location on 5*5 board and player tries to sink the ship by guessing its location.  Four turns are allowed per game.
 
 ------------------------
 REQUIREMENTS
